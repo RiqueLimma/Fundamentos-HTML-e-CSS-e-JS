@@ -1,17 +1,24 @@
 body {
     
-    background-color: black;
     background-image: url(assets/planoFundo.jpg);
     margin: 0;
     padding: 0;
     text-align: center;
-    font-family: 'Times New Roman', Time/s, serif;
-    overflow: hidden;
-   
+    font-family: 'Sigmar One', cursive;
+
    }
 
-   p {
-       color: green;
-   }
+p {
+    color:rgb(247, 6, 6);
+    font-family: 'Sigmar One', cursive;
+}
 
-
+h1{
+    color: aqua;
+}
+.capirinha1 {
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,43 +1,29 @@
 body {
- background-image: url(assets/planoFundo.jpg);
- margin: 0;
- padding: 0;
- text-align: center;
- font-family: 'Times New Roman', Times, serif;]
 
-}
-
-h1{
-    color: green;
-}
-
-h5 {
-    color: green;
-}
-
-p {
-    color: green;
-
-}
-
-a{
-    color: green;
-
-}
-
-
-.titulo1,li, a{
-    
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
     text-align: center;
     display: flex;
     flex-direction: column;
+    font-family: 'Sigmar One', cursive;
 }
 
-.capirinha1 {
+.main {
+    background-image: url(assets/ir.jpg);
+}
+h1, h5, p, a{
     
+    color: rgb(0, 0, 0);
+}
+.titulo1,index, contato{
+    
+    color: white;
+    font-family: 30px;
     text-align: center;
     display: flex;
     flex-direction: column;
+   
 }
 
 
