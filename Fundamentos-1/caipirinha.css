@@ -1,0 +1,17 @@
+body {
+    
+    background-color: black;
+    background-image: url(assets/planoFundo.jpg);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Time/s, serif;
+    overflow: hidden;
+   
+   }
+
+   p {
+       color: green;
+   }
+
+

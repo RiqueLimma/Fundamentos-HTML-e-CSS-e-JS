@@ -1,0 +1,43 @@
+body {
+ background-image: url(assets/planoFundo.jpg);
+ margin: 0;
+ padding: 0;
+ text-align: center;
+ font-family: 'Times New Roman', Times, serif;]
+
+}
+
+h1{
+    color: green;
+}
+
+h5 {
+    color: green;
+}
+
+p {
+    color: green;
+
+}
+
+a{
+    color: green;
+
+}
+
+
+.titulo1,li, a{
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.capirinha1 {
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+
